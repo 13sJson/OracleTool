@@ -123,9 +123,6 @@ do
     echo -n "番号を入力してください: "
     read INDEX
 
-    # 入力されたコマンドの表示
-    echo "コマンド：[${INDEX}]"
-
     #入力された値によって処理分岐
     if [ ${INDEX} == 0 ]; then
     #関数：direct
