@@ -1,4 +1,5 @@
 OraTool（未完成）
+C言語やったからってイキってやったC++
 
 OraToolはLinux環境にてSQL*Plus接続でOracleDBをSELECTするときに、
 見にくい問題を解決するためのツール
